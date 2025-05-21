@@ -1,5 +1,6 @@
 # Project place file
 /Trial.rbxlx
+/Trial.rbxl
 
 # Roblox Studio lock files
 /*.rbxlx.lock
@@ -7,5 +8,5 @@
 
 Packages/
 ServerPackages/
-sourcemap.json
-wally.lock
+/sourcemap.json
+/wally.lock
